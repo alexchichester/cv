@@ -4,9 +4,9 @@ body {
 }
 a:link,
 a:visited,
-a:active { color: #FDFDFD; text-decoration: underline; }
+a:active { color: #FDFDFD; text-decoration: none; }
 
-a:hover { color: #FDFDFD; text-decoration: none; }
+a:hover { color: #FDFDFD; text-decoration: underline; }
 
 
 h1 {
