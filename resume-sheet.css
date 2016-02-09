@@ -12,9 +12,9 @@ a:hover { color: #FDFDFD; text-decoration: underline; }
 
 a.phone:link,
 a.phone:visited,
-a.phone:active { color: #3366FF; text-decoration: underline; }
+a.phone:active { color: #FDFDFD; text-decoration: underline; }
 
-a.phone:hover { color: #006699; text-decoration: none; }
+a.phone:hover { color: #FDFDFD; text-decoration: none; }
 
 h1 {
     color: #FDFDFD;
