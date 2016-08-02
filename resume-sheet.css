@@ -1,10 +1,6 @@
 body {
 
-  background: url(http://i.imgur.com/AyCvHBU.jpg) no-repeat center center fixed; 
--webkit-background-size: cover;
--moz-background-size: cover;
--o-background-size: cover;
-background-size: cover;
+ background:url(http://i.imgur.com/AyCvHBU.jpg) top right no-repeat; background-attachment:fixed;
 }
 a:link,
 a:visited,
