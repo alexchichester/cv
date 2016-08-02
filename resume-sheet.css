@@ -1,7 +1,9 @@
 body {
+background-image: url("http://i.imgur.com/AyCvHBU.jpg")
 
- background:url(http://i.imgur.com/AyCvHBU.jpg) top right no-repeat; background-attachment:fixed;
 }
+
+
 a:link,
 a:visited,
 a:active { color: #FDFDFD; text-decoration: none; }
