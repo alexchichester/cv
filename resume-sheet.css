@@ -12,9 +12,10 @@ html {
 
 
 li {
-    color : white;
-    type : square;
-    font-size : 1.875em;
+    color: FDFDFD;
+    font-size: 0.875em; 
+    font-family: ‘Lucida Sans Unicode’, ‘Lucida Grande’, sans-serif;
+    type: square;
 }
 
 
