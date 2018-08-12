@@ -10,17 +10,7 @@ html {
   background-size: cover;
 }
 
-li:before {
-    content: "";
-    position:relative;
-    left: -10px;
-    background-color:red;
 
-    display:inline-block;
-    width:10px;
-    height:10px;
-    border-radius:50%
-}
 li {
     color : white;
 }
