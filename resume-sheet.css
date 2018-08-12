@@ -21,6 +21,10 @@ li:before {
     height:10px;
     border-radius:50%
 }
+li {
+    color : white;
+}
+
 
 a:link,
 a:visited,
