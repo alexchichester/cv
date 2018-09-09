@@ -27,3 +27,12 @@ body {
 #slidearea {float:left; position:relative; width:456px; margin-left:5px; height:81px; overflow:hidden}
 #slider {position:absolute; left:0; height:81px}
 #slider img {cursor:pointer; border:1px solid #666; padding:2px}
+.enlarge-onhover {
+     width: 500px;
+     height: 300px;
+}
+
+.enlarge-onhover:hover {
+     width: 1000px;
+     height: 500px;
+}
